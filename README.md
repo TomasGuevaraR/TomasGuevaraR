@@ -1,26 +1,75 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Tomas Guevara </a></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<h1 align="center">👋 ¡Hola! Soy <a href="#" target="_blank">Tomás Guevara Ramos</a></h1>
+<h3 align="center">Técnico en Administración | Tecnólogo en Análisis y Desarrollo de Software</h3>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TomasGuevaraRamos&label=Visitas%20al%20perfil&color=00c2ab&style=flat" alt="contador" />
+</p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+---
+
+<a target="_blank" align="right">
+  <img align="right" height="280" width="400" alt="GIF de programación" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+### 💫 Sobre mí
+Soy un desarrollador colombiano recién graduado del **SENA** como **Tecnólogo en Análisis y Desarrollo de Software**, con formación técnica en **Administración**.  
+Me apasiona crear soluciones tecnológicas funcionales y bien estructuradas, tanto para entornos web como móviles.  
+Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del software.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+---
 
-- 🤝 I’m available for freelancing.
+### 🧠 Tecnologías que manejo
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+#### 💻 Lenguajes de programación
+- 🌐 **HTML5 / CSS3 / JavaScript**
+- 💎 **PHP**
+- ☕ **Java**
+- 🎯 **Dart (Flutter)**
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+#### 🧩 Frameworks y herramientas
+- ⚙️ **Bootstrap**
+- 🧱 **Flutter**
+- 🧑‍💻 **XAMPP / PHPMyAdmin**
+- 🧰 **Git / GitHub**
+- 🖥️ **Visual Studio Code**
+- 📱 **Android Studio**
 
-- 💬 Ask me about **Reactjs & React-Native**
+#### 🗄️ Bases de datos
+- 🐬 **MySQL**
+- 🧾 **SQLite**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+---
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+### 🚀 Proyectos destacados
+
+- 💊 **SystEcam** → Sistema web para la gestión de productos en una farmacia (HTML, CSS, PHP, MySQL).  
+- 💒 **Sistema de Administración y Contabilidad para Iglesia** → Proyecto para optimizar la gestión interna y contable de una comunidad.  
+- 🎵 **BandPro** *(en desarrollo)* → Aplicación móvil Flutter para planificación y gestión musical de bandas cristianas.  
+
+---
+
+### 🌱 Actualmente aprendiendo
+- 🔥 Arquitectura de aplicaciones móviles con Flutter  
+- ⚙️ Integración de APIs REST  
+- 🎨 Diseño moderno UI/UX  
+
+---
+
+### 📫 Contáctame
+- ✉️ **Correo:** [tomasguevara2024@gmail.com](mailto:tomasguevara2024@gmail.com)  
+- 💼 **LinkedIn:** *En construcción*  
+- 🌐 **Portafolio:** *Próximamente disponible*  
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasGuevaraRamos&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasGuevaraRamos&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  ✨ *“El aprendizaje constante es el camino hacia el crecimiento profesional y personal.”* ✨
+</p>
