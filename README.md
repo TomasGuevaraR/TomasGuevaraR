@@ -20,23 +20,28 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 
 ### 🧠 Tecnologías que manejo
 
-#### 💻 Lenguajes de programación
-- 🌐 **HTML5 / CSS3 / JavaScript**
-- 💎 **PHP**
-- ☕ **Java**
-- 🎯 **Dart (Flutter)**
+### 🔧 Languages
 
-#### 🧩 Frameworks y herramientas
-- ⚙️ **Bootstrap**
-- 🧱 **Flutter**
-- 🧑‍💻 **XAMPP / PHPMyAdmin**
-- 🧰 **Git / GitHub**
-- 🖥️ **Visual Studio Code**
-- 📱 **Android Studio**
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🗄️ Bases de datos
-- 🐬 **MySQL**
-- 🧾 **SQLite**
+---
+
+### 🧩 Frameworks y herramientas
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
