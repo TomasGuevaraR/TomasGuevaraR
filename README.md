@@ -30,7 +30,7 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 
 ---
 
-### 🧩 Frameworks y herramientas
+### 🧩 Frameworks y Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,7 +40,11 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -67,12 +71,20 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 ---
 
 ### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasGuevaraRamos&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasGuevaraRamos&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasGuevaraR&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasGuevaraR&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165" />
+</p>
 ---
+
+### 💳 GitHub Profile Summary Card
+
+<div align="center">
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomasGuevaraR&theme=github_dark)
+
+</div>
 
 <p align="center">
   ✨ *“El aprendizaje constante es el camino hacia el crecimiento profesional y personal.”* ✨
