@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy <a href="#" target="_blank">Tomás Guevara Ramos</a></h1>
-<h3 align="center">Técnico en Administración | Tecnólogo en Análisis y Desarrollo de Software</h3>
+<h3 align="center">Tecnólogo en Análisis y Desarrollo de Software | Técnico en Administración</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomasGuevaraRamos&label=Visitas%20al%20perfil&color=00c2ab&style=flat" alt="contador" />
@@ -51,7 +51,7 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 ### 🚀 Proyectos destacados
 
 - 💊 **SystEcam** → Sistema web para la gestión de productos en una farmacia (HTML, CSS, PHP, MySQL).  
-- 💒 **Sistema de Administración y Contabilidad para Iglesia** → Proyecto para optimizar la gestión interna y contable de una comunidad.  
+- 💒 **ACTU** → Proyecto para optimizar la gestión interna y contable de una comunidad.  
 - 🎵 **BandPro** *(en desarrollo)* → Aplicación móvil Flutter para planificación y gestión musical de bandas cristianas.  
 
 ---
@@ -73,8 +73,8 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasGuevaraR&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasGuevaraR&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasguevarar&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasGuevarar&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 ---
 
@@ -82,9 +82,10 @@ Busco seguir aprendiendo y desarrollarme profesionalmente dentro del mundo del s
 
 <div align="center">
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomasGuevaraR&theme=github_dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomasguevarar&theme=github_dark)
 
 </div>
+
 
 <p align="center">
   ✨ *“El aprendizaje constante es el camino hacia el crecimiento profesional y personal.”* ✨
